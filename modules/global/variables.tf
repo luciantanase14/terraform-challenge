@@ -1,0 +1,9 @@
+variable "aws_region" {}
+variable "state_bucket" {}
+variable "state_dynamodb_table" {}
+variable "environment" {}
+variable "lambda_name" {}
+variable "dynamodb_name" {}
+variable "queue_name" {}
+variable "iam_role_name" {}
+variable "tags" {}
